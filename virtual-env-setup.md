@@ -1,7 +1,4 @@
----
-title: "Python Virtual Environment Setup"
-tags: "Python"
----
+# Python Virtual Environment Setup
 
 ## Prerequisite
 
