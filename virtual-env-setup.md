@@ -15,7 +15,7 @@
 ## Start user virtual environment
 
 ```
-source venv/bin/active
+source venv/bin/activate
 ```
 
 ## Exit virtual environment
